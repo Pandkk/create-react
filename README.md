@@ -1,8 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### 技术栈及环境
 
-In the project directory, you can run:
+技术栈react脚手架create-react-app2+less+antd+router4+axiso+react-app-rewired
+antd使用babel-plugin-import按需加载
+node > = 6
+npm v5.2
+
+### 安装
+git clone 本项目
+npm install
+开发：npm start
+打包：npm run build
 
 ### `npm start`
 
@@ -37,6 +46,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### `技术栈react脚手架create-react-app2+less+ant+router4+axiso+react-app-rewired`
+`
 
 
