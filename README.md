@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 技术栈及环境
 
-技术栈react脚手架create-react-app2+less+antd+router4+axiso+react-app-rewired
-antd使用babel-plugin-import按需加载
-node > = 6
-npm v5.2
+* 技术栈react脚手架create-react-app2.x+less+antd3.x+router4.x+axiso+react-app-rewired2.x
+* antd使用babel-plugin-import按需加载
+* node > = 6
+* npm v5.2
 
 ### 安装
 git clone 本项目
