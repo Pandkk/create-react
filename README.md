@@ -8,10 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * npm v5.2
 
 ### 安装
-git clone 本项目
-npm install
-开发：npm start
-打包：npm run build
+* git clone 本项目
+* npm install
+* 开发：npm start
+* 打包：npm run build
 
 ### `npm start`
 
